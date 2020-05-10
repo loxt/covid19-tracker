@@ -27,6 +27,9 @@ module.exports = {
     'prettier/prettier': 'error',
     'react/prefer-stateless-function': 'off',
     'react/jsx-filename-extension': 'off',
-    'no-console': 'off'
+    'no-console': 'off',
+    'import/prefer-default-export': 'off',
+    'consistent-return': 'off',
+    'react/prop-types': 'off'
   },
 };
