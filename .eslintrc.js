@@ -30,6 +30,7 @@ module.exports = {
     'no-console': 'off',
     'import/prefer-default-export': 'off',
     'consistent-return': 'off',
-    'react/prop-types': 'off'
+    'react/prop-types': 'off',
+    'react/no-array-index-key': 'off'
   },
 };
